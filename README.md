@@ -1,2 +1,7 @@
-# Code-Snippets-Udemy
-This repository contains a collection of useful **Bash** and **Python** scripts and code snippets designed for learning, practicing, and solving real-world problems. Ideal for students, Udemy course learners, and self-taught developers.
+# 📚 Udemy Code Snippets: Bash & Python
+
+This repository contains all the **Bash** and **Python** code snippets demonstrated throughout my Udemy course. It’s designed to help students follow along, experiment, and practice with real examples.
+
+---
+
+
